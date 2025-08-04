@@ -1,0 +1,44 @@
+[
+  {
+    "team_id": "c1ffe161-8f55-4a93-a98c-3f37cac79c81",
+    "name": "DevOps Team",
+    "members": [
+      "a434dd73-8065-48cc-a519-d2e5041753b1"
+    ]
+  },
+  {
+    "team_id": "db6c7198-0abe-4b15-90a6-c3761f81e630",
+    "name": "DevOps Team",
+    "members": [
+      "e9952109-0ad9-4a42-9e43-77a11d7b3456"
+    ]
+  },
+  {
+    "team_id": "27256254-aa3d-49ca-a0c0-ac97eb95ea32",
+    "name": "DevOps Team",
+    "members": [
+      "b6246054-8a64-4094-a682-2e93dd9ec7ca"
+    ]
+  },
+  {
+    "team_id": "b9e06653-67a7-4d85-9211-15efb6f3817e",
+    "name": "DevOps Team",
+    "members": [
+      "a1510399-9dcf-442b-8583-7155dac96cd6"
+    ]
+  },
+  {
+    "team_id": "7dd6515e-39f8-4b3b-b364-ca3d96d79ad7",
+    "name": "DevOps Team",
+    "members": [
+      "6e7d28e9-9bea-416c-9b5b-e82a1d3ffa29"
+    ]
+  },
+  {
+    "team_id": "f9193717-a443-49de-986f-4cfd7261c9d5",
+    "name": "DevOps Team",
+    "members": [
+      "3580878f-e898-49e3-90ee-13c5ac1334ce"
+    ]
+  }
+]
